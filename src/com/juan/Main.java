@@ -19,7 +19,6 @@ public class Main  {
             HiloServer hiloServer = new HiloServer(socket , chat);
             hiloServer.start();
 
-
         }
 
 
